@@ -3,7 +3,7 @@
 class Inspire
 {
 
-    protected $url = "http://lmsg.jiecaojingxuan.com:443/socket.io/?transport=polling&b64=1&sessionToken=1.950470.481270.GHU.6b39c9c5de9add66cda3f9fd09fae5aa";
+    protected $url = "http://lmsg.jiecaojingxuan.com:443/socket.io/?transport=polling&b64=1&sessionToken=1.950470.823396.uhR.05b3ebe18be9fd5cf9776ab685d519db";
 
     protected $searchUrl = "https://www.baidu.com/s?wd=";
 
